@@ -5,11 +5,11 @@ let isMessaging = false;
 let messageInterval = null;
 
 let messages = [
-  "NgocHanCute",
+  "yêu anh hong",
   "NgocHanXinhYeu",
   "ều xinh💗",
-  "chúc ều 8/3 zui zẻ 🌷",
-  "mãi thương ều nhee 💗",
+  "chúc ều 8/3 zui zẻ🌷",
+  "yêu ebe nhieu lam 💗",
 ];
 
 let customImages = [];
@@ -616,3 +616,4 @@ function createHearts(x, y) {
 }
 
 program();
+
